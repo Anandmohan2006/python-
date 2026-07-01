@@ -2,6 +2,8 @@ int  = 1
 float = 1.5
 char = "dubey"
 boolean = "true"
+none = ""
+
 
 print(int)
 print(float)
