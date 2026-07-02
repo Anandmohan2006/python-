@@ -20,3 +20,21 @@ print(l01)
 print(l01)
 
 
+print("  ")                 
+
+l01.pop(3)  #.pop is used to pop (remove) the data from list
+
+print(l01)
+
+
+
+l01.remove(544)
+
+
+print(l01)
+
+
+
+
+
+
