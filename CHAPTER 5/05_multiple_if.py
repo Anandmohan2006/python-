@@ -7,12 +7,13 @@ if (a>= 3):
     
     if(a >= 5):
         print("you can now go to primary school.")
-        
+    
         if(a >= 10):
             print("you can now go to middle school.")
             
             if(a >= 14):
                 print("you can now go to high school.")
+                
                 
                 if(a >= 18):
                     print("you can now go to college.")
